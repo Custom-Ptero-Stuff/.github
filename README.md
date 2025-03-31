@@ -1,7 +1,7 @@
 # Custom Pterodactyl Eggs
 ## Red-Banana's Personal Egg Collection
 
-Welcome to the **Custom-Ptero-Stuff** organization – a collection of custom-made [Pterodactyl](https://pterodactyl.io) eggs and yolks primarily developed by **Red-Banana-Official** for personal and community use.
+**Custom-Ptero-Stuff** is a collection of custom-made [Pterodactyl](https://pterodactyl.io) eggs and yolks primarily developed by **Red-Banana-Official** for personal and community use.
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to the **Custom-Ptero-Stuff** organization – a collection of custom-ma
 
 ###  Yolks Repo
 
-All Custom/modified docker yolks and base images are stored in the [custom-ptero-yolks](https://github.com/Custom-Ptero-Stuff/custom-ptero-yolks) repository.  
+All Custom/modified docker yolks are stored in the [custom-ptero-yolks](https://github.com/Custom-Ptero-Stuff/custom-ptero-yolks) repository.  
 You can view the built Docker images on the [Packages](https://github.com/orgs/Custom-Ptero-Stuff/packages).
 
 ---
