@@ -1,7 +1,7 @@
 # Custom Pterodactyl Eggs
 ## Red-Banana's Personal Egg Collection
 
-**Custom-Ptero-Stuff** is a collection of custom-made [Pterodactyl](https://pterodactyl.io) eggs and yolks primarily developed by **Red-Banana-Official** for personal and community use.
+**Custom-Ptero-Stuff** is a collection of custom-made [Pterodactyl](https://pterodactyl.io) eggs and yolks primarily developed/ customized by **Red-Banana-Official** for personal and community use.
 
 ---
 
